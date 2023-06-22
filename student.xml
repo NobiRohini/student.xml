@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+ 
+<students xmlns="http://www.example.org/studentxsd" 
+ xmlns:xsi="http://www.w3.org/2001/xmlschema-instance" 
+ xsi:schemalocation="http://www.example.org/studentxsd studentxsd.xsd"> 
+<student> 
+ <firstname>subhasree</firstname> 
+ <lastname>siram</lastname> 
+ <role>student</role> 
+ <dept>csit</dept> 
+ <fees>20</fees> 
+</student>   
+</students>
